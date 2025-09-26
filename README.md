@@ -1,1 +1,1 @@
-<img src="assets/viewpager.png" width="30%">
+<img src="viewpager.PNG" width="30%">
